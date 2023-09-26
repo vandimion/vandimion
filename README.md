@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Vandimion!
+*"I only exist inside those people who are aware of my existence."* 
+
+A quote from Iwakura Lain (she's literally me).
+
+>🌱 I'm currently learning the Java programming language (and a bit of Korean language on the side, ty Duolingo).
+>
+> ⚡ Fun fact: I love JRPGs! I'll probably make one for my own someday, but that would entirely depend on my cat's emotional health so... 🤷
+>
+> 📫 How to reach me: vandi.mion04@gmail.com.
 
 <!--
 **Vandimion/vandimion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
