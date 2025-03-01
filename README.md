@@ -1,7 +1,4 @@
 ### Hi there 👋, I'm Vandimion!
-*"I only exist inside those people who are aware of my existence."* 
-
-A quote from Iwakura Lain (she's literally me).
 
 <!--
 **Vandimion/vandimion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
